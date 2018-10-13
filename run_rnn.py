@@ -1,5 +1,5 @@
 # coding: utf-8
-#文本分类
+#文本分类项目
 from __future__ import print_function
 
 import os
